@@ -5,7 +5,7 @@
 📊 Explorador del mundo de **Big Data** y **Ciencia de Datos**  
 🗄️ Me encanta trabajar con **Bases de Datos** (SQL, Oracle, MySQL, SQL Server)  
 ☕ Fan del **Java** y en camino a profundizar en **desarrollo backend**  
-🌐 Portafolio: [dysonserver.net](http://www.dysonserver.net)  
+🌐 Portafolio: [dysonserver.net](https://panel-oculto.dysonserver.net/)  
 
 ---
 
