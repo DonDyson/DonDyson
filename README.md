@@ -1,4 +1,4 @@
-# 👋 Hola, soy Dayson Retamales  
+# 👋 Hola, soy Dayson Llanos  
 
 🎓 Estudiante de **Ingeniería en Informática** en Duoc UC (Chile)  
 💻 Apasionado por la tecnología, los **servidores** y la administración con **SSH**  
